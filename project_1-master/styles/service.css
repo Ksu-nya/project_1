@@ -1,7 +1,6 @@
 div {
   
         color: black;
-        border-radius: 15px;
         border-color: black;
         border-width: 2px;
         border-style: solid;
@@ -20,25 +19,21 @@ div {
    }
 #back1 {
     		background-image: url(../images/akadem2.jpg);
-    		background-attachment: fixed;
-            background-repeat: repeat-x;
+    		background-attachment: scroll;
     	}
 
 #back2 {
     		background-image: url(../images/watercolor1.jpg);
-    		background-attachment: fixed;
-            background-repeat: repeat-x;
+    		background-attachment: scroll;
     	}
 
 #back3 {
     		background-image: url(../images/sketch2.jpg);
-    		background-repeat: repeat;
             background-attachment: scroll;
     	}
 
 #back4 {
-    		background-image: url(../images/oil3.jpg);
-    		background-repeat: repeat;
+    		background-image: url(../images/oilp.jpg);
             background-attachment: scroll;
     	}
 

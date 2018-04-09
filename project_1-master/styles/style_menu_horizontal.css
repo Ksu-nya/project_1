@@ -6,7 +6,7 @@
   font-size: 18px;
   text-align: center;
   position: relative;
-  background: #FFC0CB;
+  background-color: rgba(0, 206, 209, 0.5); 
 }
 .menu-main:after {
   content: "";
